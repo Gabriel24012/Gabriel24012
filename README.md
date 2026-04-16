@@ -4,20 +4,20 @@
 
 ---
 
-### 🚀 Sobre mí
+### - Sobre mí
 - **Desarrollo Full Stack:** Experiencia sólida en **Node.js, Express, Angular y MongoDB**.
 - **Mobile & Tools:** Nivel alto en **Android Studio**, gestión de contenedores con **Docker** y despliegue en **Render**.
 - **Automatización:** Creador de flujos eficientes con **n8n** y arquitecturas basadas en APIs.
 - **Metodologías:** Enfoque en pruebas **PoC (Proof of Concept)**, metodologías **Scrum** y Git Flow para garantizar calidad desde la idea inicial.
 
-### 📂 Proyectos Destacados
+### - Proyectos Destacados
 * **E-commerce Informatic-Help-Agency:** Plataforma de comercio electrónico desarrollada con una estructura avanzada y organizada tanto en Backend como en Frontend.
 * **identy.io:** Plataforma integral desarrollada para la gestión de identidad digital.
 * **Google Antigravity & Codex:** Proyectos experimentales enfocados en interfaces y lógica avanzada.
 * **Moodle-AI Bridge:** Automatización de eventos de calendario mediante Node.js y PM2.
 * **Auditoría Informática:** Liderando el programa de auditoría para *Informatic-Help-Agency* (Abril - Mayo 2026).
 
-### 🛠️ Tech Stack
+### - Tech Stack
 **Frontend & Backend:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
