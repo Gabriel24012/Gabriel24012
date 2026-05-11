@@ -8,7 +8,7 @@
 - **Desarrollo Full Stack:** Experiencia sólida en **Node.js, Express, Angular y MongoDB**.
 - **Mobile & Tools:** Nivel alto en **Android Studio**, gestión de contenedores con **Docker** y despliegue en **Render**.
 - **Automatización:** Creador de flujos eficientes con **n8n** y arquitecturas basadas en APIs.
-- **Metodologías:** Enfoque en pruebas **PoC (Proof of Concept)**, metodologías **Scrum** y Git Flow para garantizar calidad desde la idea inicial.
+- **Metodologías:** Enfoque en pruebas **PoC**, metodologías **Scrum** y Git Flow para garantizar calidad desde la idea inicial.
 
 ### - Proyectos Destacados
 * **E-commerce Informatic-Help-Agency:** Plataforma de comercio electrónico desarrollada con una estructura avanzada y organizada tanto en Backend como en Frontend.
