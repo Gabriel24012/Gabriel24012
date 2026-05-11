@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gabriel 👋
+# ¡Hola! Soy Gabriel 
 
 **Junior Full Stack Developer** | Apasionado por la automatización y despliegue de soluciones escalables. Actualmente perfeccionando el stack **MEAN/MERN** en el programa **Inadaptados**.
 
